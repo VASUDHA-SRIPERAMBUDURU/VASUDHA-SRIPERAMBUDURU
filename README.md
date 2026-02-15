@@ -1,14 +1,14 @@
 # Vasudha Sriperambuduru
 
-Quantitative finance candidate with an engineering foundation and advanced training in financial mathematics.
+Quantitative finance candidate with an engineering background and formal training in financial mathematics, derivatives pricing, and risk modeling.
+
 
 ## Education
-## Education
 - Certificate in Quantitative Finance (CQF), 2026 Cohort  
-- Chartered Wealth Manager (CWM), AAFM India – Ongoing  
-- PGD in Financial Services & Regulations, Nalsar University of Law, India
-- Post Graduate Diploma in Management (PGDM), International School of Business & Research, India 
-- BTech in Electronics & Communication Engineering, Sreenidhi Institute of Science & Technology, India
+- Chartered Wealth Manager (CWM), AAFM – Ongoing  
+- PGD in Financial Services & Regulations
+- Post Graduate Diploma in Management (PGDM)
+- BTech in Electronics & Communication Engineering
  
 
 ## Quantitative Focus
