@@ -19,7 +19,7 @@ Quantitative finance candidate with an engineering background and formal trainin
 - Risk Modeling (VaR, Greeks)  
 
 ## Technical Skills
-Python | NumPy | Pandas | Matplotlib 
+Python | NumPy | Pandas | Matplotlib | SciPy
 
 ## Current Direction
 Building quantitative finance projects focused on pricing, simulation, and risk modeling.
