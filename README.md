@@ -3,11 +3,13 @@
 Quantitative finance candidate with an engineering foundation and advanced training in financial mathematics.
 
 ## Education
-- Certificate in Quantitative Finance (CQF) – 2026 Cohort  
-- Chartered Wealth Manager (Ongoing)  
-- PGD Financial Services & Regulations  
-- PGDM  
-- BTech, Electronics & Communication Engineering  
+## Education
+- Certificate in Quantitative Finance (CQF), 2026 Cohort  
+- Chartered Wealth Manager (CWM), AAFM India – Ongoing  
+- PGD in Financial Services & Regulations, Nalsar University of Law, India
+- Post Graduate Diploma in Management (PGDM), International School of Business & Research, India 
+- BTech in Electronics & Communication Engineering, Sreenidhi Institute of Science & Technology, India
+ 
 
 ## Quantitative Focus
 - Probability Theory  
