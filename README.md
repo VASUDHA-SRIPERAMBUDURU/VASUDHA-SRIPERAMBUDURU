@@ -1,16 +1,23 @@
-## Hi there 👋
+# Vasudha Sriperambuduru
 
-<!--
-**VASUDHA-SRIPERAMBUDURU/VASUDHA-SRIPERAMBUDURU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quantitative finance candidate with an engineering foundation and advanced training in financial mathematics.
 
-Here are some ideas to get you started:
+## Education
+- Certificate in Quantitative Finance (CQF) – 2026 Cohort  
+- Chartered Wealth Manager (Ongoing)  
+- PGD Financial Services & Regulations  
+- PGDM  
+- BTech, Electronics & Communication Engineering  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quantitative Focus
+- Probability Theory  
+- Stochastic Processes  
+- Derivatives Pricing (Black–Scholes, Monte Carlo)  
+- Fixed Income & OIS Modeling  
+- Risk Modeling (VaR, Greeks)  
+
+## Technical Skills
+Python | NumPy | SciPy | Pandas | Matplotlib | C++ (Learning) | Git  
+
+## Current Direction
+Building quantitative finance projects focused on pricing, simulation, and risk modeling.
