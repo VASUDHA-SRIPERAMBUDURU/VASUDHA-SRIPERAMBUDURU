@@ -14,21 +14,21 @@ Quantitative finance candidate with an engineering background and formal trainin
 
 ---
 
-## Quantitative Focus
+## Quantitative Expertise
 
 - Probability Theory & Stochastic Processes  
-- Derivatives Pricing (Black–Scholes, Monte Carlo)  
+- Derivatives Pricing (Black–Scholes, Monte Carlo Simulation)  
 - Fixed Income & OIS Modeling  
-- Risk Modeling (VaR, Greeks)  
-- Systematic Trading Strategy Design  
-- Backtesting & Performance Analytics  
+- Risk Modeling (VaR, Greeks, Drawdown Analysis)  
+- Systematic Strategy Design & Backtesting  
+- Portfolio Construction & Capital Allocation 
 
 ---
 
 ## Technical Skills
 
 Python | NumPy | Pandas | Matplotlib | SciPy  
-Dynamic Backtesting | Risk Metrics | Portfolio Construction  
+Dynamic Backtesting | Execution Modelling | Performance Analytics 
 
 ---
 
@@ -38,3 +38,9 @@ Dynamic Backtesting | Risk Metrics | Portfolio Construction
 - Market microstructure effects on systematic strategies  
 - Risk-adjusted performance optimization  
 - Cross-sectional and market-neutral frameworks
+
+---
+
+## Connect
+
+Open to internships and early career opportunities in quantitative research, quantitative trader, algorithmic trading, or risk analytics.
