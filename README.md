@@ -1,25 +1,51 @@
 # Vasudha Sriperambuduru
 
-Quantitative finance candidate with an engineering background and formal training in financial mathematics, derivatives pricing, and risk modeling.
+Quantitative finance candidate with an engineering background and formal training in financial mathematics, derivatives pricing, and systematic strategy development.
 
+---
 
 ## Education
+
 - Certificate in Quantitative Finance (CQF), 2026 Cohort  
 - Chartered Wealth Manager (CWM), AAFM – Ongoing  
-- PGD in Financial Services & Regulations
-- Post Graduate Diploma in Management (PGDM)
-- BTech in Electronics & Communication Engineering
- 
+- Advanced – PGD in Financial Services & Legislation  
+- Post Graduate Diploma in Management (PGDM)  
+- BTech in Electronics & Communication Engineering  
+
+---
 
 ## Quantitative Focus
-- Probability Theory  
-- Stochastic Processes  
+
+- Probability Theory & Stochastic Processes  
 - Derivatives Pricing (Black–Scholes, Monte Carlo)  
 - Fixed Income & OIS Modeling  
 - Risk Modeling (VaR, Greeks)  
+- Systematic Trading Strategy Design  
+- Backtesting & Performance Analytics  
+
+---
 
 ## Technical Skills
-Python | NumPy | Pandas | Matplotlib | SciPy
 
-## Current Direction
-Building quantitative finance projects focused on pricing, simulation, and risk modeling.
+Python | NumPy | Pandas | Matplotlib | SciPy  
+Dynamic Backtesting | Risk Metrics | Portfolio Construction  
+
+---
+
+## Current Work
+
+Developing systematic trading and quantitative research projects focused on:
+
+- Volatility-adjusted momentum strategies  
+- Execution-aware backtesting frameworks  
+- Risk-adjusted portfolio construction  
+- Turnover and transaction cost modeling  
+
+---
+
+## Research Interests
+
+- Alpha generation under regime shifts  
+- Market microstructure effects on systematic strategies  
+- Risk-adjusted performance optimization  
+- Cross-sectional and market-neutral frameworks
