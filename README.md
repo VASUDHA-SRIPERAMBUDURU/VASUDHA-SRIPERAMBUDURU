@@ -32,18 +32,7 @@ Dynamic Backtesting | Risk Metrics | Portfolio Construction
 
 ---
 
-## Current Work
-
-Developing systematic trading and quantitative research projects focused on:
-
-- Volatility-adjusted momentum strategies  
-- Execution-aware backtesting frameworks  
-- Risk-adjusted portfolio construction  
-- Turnover and transaction cost modeling  
-
----
-
-## Research Interests
+## Areas of Interest
 
 - Alpha generation under regime shifts  
 - Market microstructure effects on systematic strategies  
